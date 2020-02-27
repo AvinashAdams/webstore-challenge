@@ -1,0 +1,173 @@
+* {
+  box-sizing: border-box;
+}
+.brand {
+    width: 5%;
+    height: 5%;
+}
+.lock-up-top {
+    margin-left: auto;
+    margin-right: auto;
+}
+.icon-track-pants {
+  margin-left: auto;
+  margin-right: auto;
+}
+.flamestrike-top {
+  margin-left: auto;
+  margin-right: auto;
+}
+.slider-header {
+  text-align: center;
+}
+.banner {
+  text-align: center;
+}
+.product-info {
+  text-align: center;
+}
+.button1 {
+  background-color: #008CBA;
+  padding: 12px 28px;
+  border: 2px solid #008CBA;
+  margin-left: 35%;
+}
+.btn {
+  background-color: #008CBA;
+  padding: 12px 28px;
+  border: 2px solid #008CBA;
+  margin-left: 35%;
+}
+.jacket1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.t-shirt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.hoody {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.leggings1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.shorts {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.main-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 5%;
+  transform: translate(-50%, -50%);
+}
+.heading {
+  padding-left: 5%;
+}
+.row1 {
+  margin-top: 2%;
+}
+.continental {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.nite-jogger {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.ozweego {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.bodega {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.backpack {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.cap {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.falcon {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.eqt {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.column {
+  float: left;
+  width: 50%;
+}
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.heading2 {
+  padding-left: 5%;
+}
+.row2 {
+  margin-top: 2%;
+}
+#footer {
+  background-color: lightgrey;
+  margin-top: 25%;
+}
+.footer-copyright {
+  background-color: lightslategray;
+}
+.info {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  margin-bottom: -10%;
+  text-align: center;
+}
